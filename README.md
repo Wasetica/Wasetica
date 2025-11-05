@@ -66,6 +66,8 @@ Languages:
 
 <img width="71" height="28" alt="image" src="https://github.com/user-attachments/assets/2078b780-065c-4af5-ac0b-e0f75b1637af" />
 
+<img width="33" height="20" alt="image" src="https://github.com/user-attachments/assets/2c23667d-38c9-4f8e-bb68-1f8441fc9f8c" />
+
 
 
 
@@ -76,7 +78,8 @@ Front-End Development:
 
 Data Analysis:
 
-<img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/816f6809-9111-4967-909d-6989e1a7c015" /><img width="53" height="20" alt="image" src="https://github.com/user-attachments/assets/e2509827-1521-4b73-ab22-a2e38c58489f" /> <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/abb733a2-24a7-43f8-9ecf-c478aa183c1d" /> <img width="111" height="28" alt="image" src="https://github.com/user-attachments/assets/221ff743-ac0c-438a-8275-6ea17937db19" />
+<img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/816f6809-9111-4967-909d-6989e1a7c015" /><img width="53" height="20" alt="image" src="https://github.com/user-attachments/assets/e2509827-1521-4b73-ab22-a2e38c58489f" /> <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/abb733a2-24a7-43f8-9ecf-c478aa183c1d" /> <img width="111" height="28" alt="image" src="https://github.com/user-attachments/assets/221ff743-ac0c-438a-8275-6ea17937db19" /> <img width="59" height="20" alt="image" src="https://github.com/user-attachments/assets/43abd9a5-33e0-4fd1-ba49-e01f1ed73069" />
+
 
 
 
