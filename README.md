@@ -76,13 +76,21 @@ Front-End Development:
 
 
 
+Frameworks:
+
+<img width="103" height="28" alt="image" src="https://github.com/user-attachments/assets/73e8200d-54a1-4bcd-90cc-ccfdfff95c65" /> <img width="106" height="28" alt="image" src="https://github.com/user-attachments/assets/9030ccf4-ad6c-44d9-b8fe-de4267b44e02" /> <img width="97" height="28" alt="image" src="https://github.com/user-attachments/assets/a53915ac-5a9b-4097-8bb8-7eaa8b3d46d0" />
+
+
 
 
 
 
 Softwares and Tools:
 
-<img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/4e1c734f-cb5d-4af7-a72d-fe0c767b7d9c" /> <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/0222e1e1-9042-496f-96d7-3c3d6a82465f" /> <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/28729231-09da-4ddb-9a2e-5490145552f5" /> <img width="113" height="28" alt="image" src="https://github.com/user-attachments/assets/9a9e484b-45ba-45e3-90a4-f8f6955dfda3" />
+<img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/4e1c734f-cb5d-4af7-a72d-fe0c767b7d9c" /> <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/0222e1e1-9042-496f-96d7-3c3d6a82465f" /> <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/28729231-09da-4ddb-9a2e-5490145552f5" /> <img width="113" height="28" alt="image" src="https://github.com/user-attachments/assets/9a9e484b-45ba-45e3-90a4-f8f6955dfda3" /> <img width="108" height="28" alt="image" src="https://github.com/user-attachments/assets/bdc6a26f-c739-4392-866b-1c86808dc89e" /> <img width="99" height="28" alt="image" src="https://github.com/user-attachments/assets/44662dc5-9eb1-48df-9a24-1e95cff53b30" /> <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/18309517-7543-4fd5-a281-6424c7ddf859" />
+
+
+
 
 
  
@@ -93,11 +101,18 @@ Softwares and Tools:
 <img width="350" height="190" alt="image" src="https://github.com/user-attachments/assets/4580e17e-51cd-421c-a9c1-4b247ee8c4f1" />
 
 
+Libraries:
+
+<img width="90" height="28" alt="image" src="https://github.com/user-attachments/assets/0e04c32d-266e-4f92-a264-56ac026c2e85" /> <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/ac210169-704d-4bef-9b64-89abddd9e736" /> <img width="140" height="28" alt="image" src="https://github.com/user-attachments/assets/5bedeb3f-e18e-42bd-9a81-833b3f2918d7" />  <img width="109" height="28" alt="image" src="https://github.com/user-attachments/assets/15e83afe-9bde-4ac6-90b9-f0918ae2a7f1" />
+
+
+
+
 
 Contacto: 
 
-<img width="214" height="28" alt="image" src="https://github.com/user-attachments/assets/85bef60e-ab1a-43a3-986a-230ef48ff4b0" />
+<img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/216853dd-9277-4d49-82a0-7216bc5ebe0d" />
 
 
-<img width="218" height="28" alt="image" src="https://github.com/user-attachments/assets/9536337d-4359-4c79-9893-6068951b75e4" />
+<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/d83f9a2d-d827-4fc3-a86d-feb8599c5c08" />
 
