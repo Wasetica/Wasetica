@@ -14,7 +14,7 @@
 
 
 ✉️  You can contact me at sebas121985xd@gmail.com
- / csperezq@udistrital.edu.co
+ / csperezq@udistrital.edu.co  / https://www.linkedin.com/in/sebasti%C3%A1n-perez-q/
  
  — I’ll get back to you as soon as I can.
 
