@@ -60,6 +60,12 @@ Languages:
 
 <img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/274a816a-dca3-4775-933d-9adc3baf8fbf" />
 
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/9339d2a1-b897-4d39-a21e-3f53898db7cf" />
+
+<img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/20ecf119-aa84-4c8d-b9bb-e88c879e2116" />
+
+<img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/ab3f135c-3643-4206-9ae8-a7bbd9a6c730" />
+
 
 
 
