@@ -64,7 +64,8 @@ Languages:
 
 <img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/20ecf119-aa84-4c8d-b9bb-e88c879e2116" />
 
-<img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/ab3f135c-3643-4206-9ae8-a7bbd9a6c730" />
+<img width="71" height="28" alt="image" src="https://github.com/user-attachments/assets/2078b780-065c-4af5-ac0b-e0f75b1637af" />
+
 
 
 
